@@ -112,17 +112,6 @@
   - 研究进展
   - 应用场景
 
-## 📄 许可证
-
-本项目采用 [MIT License](https://choosealicense.com/licenses/mit)。
-
-## 📞 联系方式
-
-如果你有任何问题或需要帮助，请联系我：
-
-- GitHub: [https://github.com/ZsTs119](https://github.com/ZsTs119)
-- E-mail：[zsts@foxmail.com](zsts@foxmail.com)
-
 ## 📚 示例
 
 ### 示例 1：文本生成模型
@@ -172,3 +161,13 @@
 - 感谢 [DataWhale](https://datawhale.cn/) 提供的开发资源和教程支持。
 - 感谢 [Awesome-Open-Foundation-Models](https://github.com/wgwang/awesome-open-foundation-models) 提供的开源模型列表和资源。
 - 感谢 [GitHub](https://github.com/) 和 [Gitee](https://gitee.com/) 提供的平台支持。
+
+## 📄 许可证
+
+本项目采用 [MIT License](https://choosealicense.com/licenses/mit)。
+
+## 👨‍💻 作者
+
+- ZsTs119
+- Email: zsts@foxmail.com
+- GitHub: https://github.com/ZsTs119
